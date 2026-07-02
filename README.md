@@ -1,81 +1,82 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&color=00E5FF&background=0D1117&border=30363D&borderRadius=10&center=true&vCenter=true&pause=3000&width=800&height=100&lines=Hi+there,+I'm+Gourav+Kumar+Jha+%F0%9F%91%8B" alt="Typing Animation">
-</p>
+# Hi, I'm Gourav Kumar Jha 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=60&section=header" width="100%">
-</p>
+> *"What I cannot create, I do not understand."* — Richard Feynman
 
-## 💫 About Me
+**Third-year Electronics and Communication Engineering undergraduate at Delhi Technological University (DTU) with a primary focus on RTL Design, Computer Architecture, FPGA Implementation, and Digital System Design.**
 
-<table width="100%">
-  <tr>
-    <td width="100%" style="text-align: center; border: none;">
-      <strong>I am a third-year ECE undergraduate specializing in RTL design, digital logic, and FPGA prototyping using Verilog and Vivado. I am focused on front-end VLSI design, digital system architecture, and optimizing hardware logic for timing and area.</strong>
-    </td>
-  </tr>
-</table>
+I enjoy designing digital hardware from the ISA level down to synthesizable RTL. My interests include processor design, datapath optimization, FPGA implementation, and writing modular, self-checking Verilog testbenches for functional verification. I am continuously exploring modern digital design methodologies and building projects that strengthen my understanding of hardware architecture.
 
-<br>
+📫 **Email:** [rocky52634@gmail.com](mailto:rocky52634@gmail.com)  
+💼 **LinkedIn:** https://www.linkedin.com/in/gourav-kumar-jha-208726344/
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=60&section=footer" width="100%">
-</p>
+# 🎯 Areas of Interest
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/gourav-kumar-jha-208726344/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/roman_redn">
-    <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" alt="Reddit">
-  </a>
-  &nbsp;
-  <a href="mailto:rocky52634@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
-<br>
+- RTL Design
+- Computer Architecture
+- FPGA Design
+- Front-End VLSI
+- Digital System Design
+- Hardware Verification
+- Embedded Systems
 
 ---
 
-# 💻 Tech Stacks
+# 🛠️ Technical Skills
 
-### 🛠️ Hardware Description & Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Verilog-%23333333.svg?style=for-the-badge&logo=IEEE&logoColor=white" alt="Verilog">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-</p>
-
-### 🔬 FPGA & Digital Simulation
+## Hardware Design
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vivado-%23E60000.svg?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado">
-  <img src="https://img.shields.io/badge/EDA_Playground-%2300E5FF.svg?style=for-the-badge&logo=standard-library&logoColor=black" alt="EDA Playground">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Verilog-%23333333.svg?style=for-the-badge&logo=IEEE&logoColor=white">
+  <img src="https://img.shields.io/badge/RISC--V-2C2C2C?style=for-the-badge&logo=riscv&logoColor=white">
+  <img src="https://img.shields.io/badge/Digital_Logic-00E5FF?style=for-the-badge">
 </p>
-
-<br>
 
 ---
 
-# ⚙️ Software & Tools Used
+## FPGA & EDA Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Matlab-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab">
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-%23E60000.svg?style=for-the-badge&logo=xilinx&logoColor=white">
+  <img src="https://img.shields.io/badge/EDA_Playground-%2300E5FF.svg?style=for-the-badge">
 </p>
 
-<br>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF&height=60&section=footer" width="100%">
+## Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 </p>
+
+---
+
+## Version Control & Development Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing:
+
+- RTL Design
+- Computer Architecture
+- FPGA Development
+- Front-End VLSI
+- Digital System Design
+- Hardware Verification
+- Embedded Systems
+
+If you'd like to collaborate or discuss digital hardware design, feel free to reach out.
+
+---
+
+⭐ *"Designing hardware isn't just about making it work—it's about understanding every gate, every signal, and every clock cycle."*
